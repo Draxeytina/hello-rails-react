@@ -1,7 +1,7 @@
 # Hello React Rails
 
 ## Description
-A hello app created using rails + react to generate random greeting messages from database
+A hello app created using rails + react to generate random greeting messages from database.
 
 ## Built With
 - Ruby

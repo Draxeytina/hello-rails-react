@@ -1,24 +1,57 @@
-# README
+# Hello React Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+A hello app created using rails + react to generate random greeting messages from database
 
-Things you may want to cover:
+## Built With
+- Ruby
+- JavaScript
+- Ruby on Rails
+- React
+- Redux
+- Postgre
 
-* Ruby version
+## See Project
 
-* System dependencies
 
-* Configuration
+## Run it
 
-* Database creation
+Use the following steps to run this Project locally:
 
-* Database initialization
+- Create a directory
 
-* How to run the test suite
+- Open the terminal
 
-* Services (job queues, cache servers, search engines, etc.)
+- Run this command:
+`git clone git@github.com:Draxeytina/hello-react-rails.git`
 
-* Deployment instructions
+- Enter in to the folder:
+`cd hello-react-rails`
 
-* ...
+- Open the folder with a code editor
+
+
+## Author 🖋️
+👤 Tinashe Timothy Murambinda
+* <a href="https://github.com/Draxeytina/">Github</a>
+* <a href="https://twitter.com/tinamura2">Twitter</a>
+* <a href="https://www.linkedin.com/in/timothy-tinashe-murambinda/">LinkedIn</a>
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Code reviewers
+- Coding partners
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
